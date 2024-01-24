@@ -1,4 +1,5 @@
 RoboFriends React App
+
 The RoboFriends app is a React-based web application that allows users to interact with a dynamic list of robot friends. The app leverages the JSONPlaceholder API to fetch robot data and display it in an engaging and user-friendly interface.
 
 App Description
